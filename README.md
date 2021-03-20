@@ -2,7 +2,6 @@
 
 > It shortens URL's in a Python Flask website
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/tvdsluijs/py-url-shortner)
 ![GitHub](https://img.shields.io/github/license/tvdsluijs/py-url-shortner)
 
 # Python URL Shortner
