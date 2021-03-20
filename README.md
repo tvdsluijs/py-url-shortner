@@ -5,6 +5,8 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/tvdsluijs/py-url-shortner)
 ![GitHub](https://img.shields.io/github/license/tvdsluijs/py-url-shortner)
 
+# Python URL Shortner
+
 I was wondered in how much time I could build a URL shortner. Long long long long long ago I build a [URL shortner in PHP](https://github.com/tvdsluijs/snurl.eu] it was a massive hit but the servers died on it because of the high traffic and I just could not affort faster servers and more bandwidth.
 
 I think it took me a week or 2 to build the PHP version of the URL shortner. I'm all into Python the last few years and I wanted to see how long it would take me to build a version in Python. Just the most raw version of it. No bling bling webpage, just a simpel working version.
@@ -16,6 +18,7 @@ I build this under 45 minutes. Could have been faster, but my cat needed some pe
 You need to librairies for this to work.
 
 `pip install Flask`
+
 `pip install validators`
 
 I would suggest to install and use these in an python sandboxed environment.
@@ -50,7 +53,10 @@ You got it running!
 
 ## Meta
 
-Your Name – [@itheo_nl](https://twitter.com/itheo_nl) – theo@vandersluijs.nl
+iTheo van der Sluijs – [@itheo_nl](https://twitter.com/itheo_nl) – theo@vandersluijs.nl
+
+[itheo.nl](https://itheo.nl)
+[vandersluijs.nl](https://vandersluijs.nl)
 
 [https://github.com/tvdsluijs/](https://github.com/tvdsluijs/)
 
